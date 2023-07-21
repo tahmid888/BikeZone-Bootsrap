@@ -1,0 +1,11 @@
+.biker-zone-light-red{
+background-color: palevioletred;
+}
+/* .btn-danger{
+    background-color: red;
+} */
+.btn-outline-success{
+    color:white;
+    background-color: rgb(220, 53, 69) !important;
+    border-color: red !important;
+}
